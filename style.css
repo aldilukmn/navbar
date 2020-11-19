@@ -1,0 +1,65 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+nav {
+  background-color: #24252A;
+  padding: 0 ;
+}
+
+h1 {
+  float: left;
+  margin: 0 10px;
+  padding: 22px 0 ;
+  color: #fff
+}
+
+ul {
+  float: left;
+}
+
+ul li {
+  display: inline-block;
+  padding: 22px 5px;
+}
+
+ul li a {
+  color: #fff;
+  padding: 23px 20px;
+  text-decoration: none;
+  font-weight: bold;
+  font-size: 20px;
+}
+
+ul li a:hover {
+  color: #0059ff;
+}
+
+form {
+  float: right;
+  margin-right: 30px;
+  padding: 18px 0;
+}
+
+input {
+  padding: 7px ;
+  margin-right: 10px;
+  border: 0;
+  border-radius: 10px
+}
+
+button {
+  color: #fff;
+  padding: 7px 10px;
+  border: none;
+  border-radius: 10px;
+  background-color: #0059ff;
+  font-weight: bold;
+  font-size: 14px;
+  cursor: pointer;
+}
+
+.clear {
+  clear: both;
+}
